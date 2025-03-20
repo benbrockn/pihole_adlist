@@ -1,6 +1,4 @@
 addons-pa.clients6.google.com
-i.ytimg.com
-i1.ytimg.com
 lh3.googleusercontent.com
 lh6.googleusercontent.com
 signaler-pa.clients6.google.com
