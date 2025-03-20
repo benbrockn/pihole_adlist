@@ -2,7 +2,7 @@
 
 ## License
 
-This project is licensed under the GNU General Public License version 3 (GPLv3) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License version 3 (GPLv3) - see the [LICENSE.md](LICENSE.md) file for details.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
