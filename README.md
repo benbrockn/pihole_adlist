@@ -1,8 +1,8 @@
-# Project Title
+# PiHole Adlists
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A brief description of what your project does and why it's useful.
+An assortment of text files to be used in PiHole.
 
 ## Table of Contents
 
@@ -15,21 +15,12 @@ A brief description of what your project does and why it's useful.
 
 ## Features
 
-- Feature 1: Description of the first feature.
-- Feature 2: Description of the second feature.
-- Feature 3: Description of the third feature.
+- Block All YouTube: Accidental adlist created when trying to figure out how to block ads. Basically useless except for testing.
+- YouTube adlist: Main YouTube adlist.
 
 ## Installation
 
-Provide step-by-step instructions on how to install your project. Include any dependencies that need to be installed.
-
-# Example installation commands
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-npm install
-
-# Example usage commands
-npm start
+Click on the adlist you want, go to "RAW" copy the URL in the search bar, paste into PiHohle's Adlist URL section.
 
 ## Contributing
 
@@ -47,6 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+BenBRockN
 
-Project Link: [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+Project Link: [https://github.com/benbrockn/pihole_adlist/](https://github.com/benbrockn/pihole_adlist/)
