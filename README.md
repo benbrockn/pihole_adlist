@@ -21,7 +21,7 @@ An assortment of text files to be used in PiHole.
 
 BenBRockN_combined_blocklist:
 - This is the file that you want (Updated whenever)
-- https://raw.githubusercontent.com/benbrockn/pihole_adlist/refs/heads/main/BenBRockN_combined_blocklist.txt
+- https://raw.githubusercontent.com/benbrockn/pihole_blocklist/refs/heads/main/BenBRockN_combined_blocklist.txt
 
 (Old) YouTube adlist: 
 - Main YouTube adlist. (already added to the above list)
@@ -35,6 +35,7 @@ BenBRockN_combined_blocklist:
 - Login to your Pihole's Admin webUI
 - Click on "Lists"
 - Paste the "RAW" URL into the "URL" field, add "BenBRockN - Combined Blocklist" as the comment, and select "Add Blocklist"
+- Scroll down to the new entry for "BenBRockN - Combined Blocklist", and ensure it's enabled for All Groups (under "Group Assignment")
 - Click on "Tools" -> "Update Gravity" -> "Update"
 
 ## Contributing
