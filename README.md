@@ -13,15 +13,18 @@ An assortment of text files to be used in PiHole.
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Features
 
+- BenBRockN_combined_blocklist
+- This is the file that you want! (Updated whenever)
+- https://raw.githubusercontent.com/benbrockn/pihole_adlist/refs/heads/main/BenBRockN_combined_blocklist.txt
+
+- YouTube adlist: Main YouTube adlist. (already added to the above list)
 - Block All YouTube: Accidental adlist created when trying to figure out how to block ads. Basically useless except for testing.
-- YouTube adlist: Main YouTube adlist.
 
 ## Installation
 
