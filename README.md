@@ -11,24 +11,31 @@ An assortment of text files to be used in PiHole.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
+- [Files](#files)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-## Features
+## Files
 
-- BenBRockN_combined_blocklist
-- This is the file that you want! (Updated whenever)
+BenBRockN_combined_blocklist:
+- This is the file that you want (Updated whenever)
 - https://raw.githubusercontent.com/benbrockn/pihole_adlist/refs/heads/main/BenBRockN_combined_blocklist.txt
 
-- YouTube adlist: Main YouTube adlist. (already added to the above list)
-- Block All YouTube: Accidental adlist created when trying to figure out how to block ads. Basically useless except for testing.
+(Old) YouTube adlist: 
+- Main YouTube adlist. (already added to the above list)
 
-## Installation
+(Old) Block All YouTube:
+- Accidental adlist created when trying to figure out how to block ads. Basically useless except for testing.
 
-Click on the adlist you want, go to "RAW" copy the URL in the search bar, paste into PiHohle's Adlist URL section.
+## Usage
+
+- Copy the "RAW" URL (supplied above)
+- Login to your Pihole's Admin webUI
+- Click on "Lists"
+- Paste the "RAW" URL into the "URL" field, add "BenBRockN - Combined Blocklist" as the comment, and select "Add Blocklist"
+- Click on "Tools" -> "Update Gravity" -> "Update"
 
 ## Contributing
 
@@ -42,7 +49,7 @@ Guidelines for contributing to your project. Include information on how to submi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL v3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
