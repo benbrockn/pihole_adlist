@@ -1,4 +1,4 @@
-# PiHole Adlists
+# PiHole blocklists
 
 ## License
 
