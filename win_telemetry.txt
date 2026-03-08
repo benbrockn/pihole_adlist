@@ -1,0 +1,9 @@
+# This is a test blocklist
+# This should only affect VSCode telemetry
+# Taken from here: https://github.com/StevenBlack/hosts/issues/2301#issuecomment-1518564889
+# Posted by HaGeZi
+mobile.events.data.microsoft.com
+us-mobile.events.data.microsoft.com
+eu-mobile.events.data.microsoft.com
+au-mobile.events.data.microsoft.com
+jp-mobile.events.data.microsoft.com
